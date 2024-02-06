@@ -9,7 +9,7 @@
 
 - 📊 I also have experience in **data analysis and Machine Learning model development.**
 
-- 📝 My papers can be found in [my Google Scholar profile]. (https://scholar.google.com/citations?user=e2ZbuKAAAAAJ&hl=es)
+- 📝 My papers can be found in [my Google Scholar profile](https://scholar.google.com/citations?user=e2ZbuKAAAAAJ&hl=es). 
 
 - 📫 How to reach me **david.martinezp@umh.es**
 

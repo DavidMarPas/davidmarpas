@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Martínez Pascual</h1>
-<h3 align="center">A passionate researcher in Assisstive Robotics and Artificial Intelligence</h3>
+<h3 align="center">A passionate researcher in Assistive Robotics and Artificial Intelligence</h3>
 
 - 🦾 I’m currently working on **control architectures using Artificial Intelligence techniques to adapt the assistance of assistive robots.**
 
@@ -9,7 +9,7 @@
 
 - 📊 I also have experience in **data analysis and Machine Learning model development.**
 
-- 📝 My papers can be found in Google Scholar [https://scholar.google.com/citations?user=e2ZbuKAAAAAJ&hl=es](https://scholar.google.com/citations?user=e2ZbuKAAAAAJ&hl=es)
+- 📝 My papers can be found in [my Google Scholar profile]. (https://scholar.google.com/citations?user=e2ZbuKAAAAAJ&hl=es)
 
 - 📫 How to reach me **david.martinezp@umh.es**
 

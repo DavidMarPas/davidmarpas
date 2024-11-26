@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Martínez Pascual</h1>
 <h3 align="center">A passionate researcher in Assistive Robotics and Artificial Intelligence</h3>
 
-- 🦾 I’m currently working on **control architectures using Artificial Intelligence techniques to adapt the assistance of assistive robots.**
+- 🦾 I’m currently working on control architectures using Artificial Intelligence techniques to adapt the assistance of assistive robots. With this end, I investigate how to use different biosignals as inputs of Machine Learning models to adapt and personalize the assistance of rehabilitation and assistance robots.
 
-- 🧠 I’m doing my **PhD in Bioengineering**. In my thesis, I'm using biosignals as inputs of Machine Learning models to adapt and personalize the assistance of rehabilitation and assistance robots.
+- 🤖 I have experience with Robotic Operating System (ROS) for the development and control of robots.
 
-- 🤖 I have experience with **Robotic Operating System (ROS) for the development and control of robots.**
-
-- 📊 I also have vast experience in **data analysis and Machine Learning model development.**
+- 📊 I also have experience in data analysis and data visualization, as well as Machine Learning model development with Python (Keras & PyTorch).
 
 - 📝 My papers can be found in [my Google Scholar profile](https://scholar.google.com/citations?user=e2ZbuKAAAAAJ&hl=es). 
 
